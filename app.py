@@ -1,5 +1,5 @@
 # PROJECT: 1
-# MIDS LABS GAME PROJECT
+# MAD LIBS GAME PROJECT
 
 name = input("🏷️ Enter The Boy Name: ")
 age = input("🎂 Enter The Boy Age: ")
